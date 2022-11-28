@@ -6,7 +6,7 @@
 /* hero background image */
 .bgimage {
     height:100vh;
-    background: url('images/pexels-daniel-putzer-633409.JPG');
+    background: url('../images/pexels-daniel-putzer-633409.JPG');
     background-size:cover;
     position:relative;
 }
